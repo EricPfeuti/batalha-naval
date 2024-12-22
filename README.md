@@ -4,7 +4,7 @@
   <img src="images/batalha-naval.PNG" alt="Imagem Batalha Naval">
 </div>
 
-<h3>Feito com JavaScript, o código apenas contém o tabuleiro da batalha naval e alguns barcos que ao apertar "F5" eles vão mudando de posição aleatoriamente, em breve o jogo será realizado...</h3>
+<h4>Feito com JavaScript, o código apenas contém o tabuleiro da batalha naval e alguns barcos que ao apertar "F5"/atualizar página eles vão mudando de posição aleatoriamente, em breve o jogo será realizado...</h4>
 
 ## Linguagens Utilizadas:
 <div style="display: inline_block;">
